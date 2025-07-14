@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "app/actions/explain-http.ts": {
+      "runtime": "nodejs18.x"
+    }
+  },
+  "env": {
+    "OPENAI_API_KEY": "@openai-api-key"
+  }
+}
