@@ -54,7 +54,6 @@ A professional, AI-powered tool for analyzing HTTP requests and responses. Perfe
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS + shadcn/ui
 - **AI**: OpenAI GPT-4o
-- **Deployment**: Vercel
 
 ## Environment Variables
 
@@ -64,7 +63,7 @@ A professional, AI-powered tool for analyzing HTTP requests and responses. Perfe
 
 ## Deployment
 
-This app is optimized for deployment on Vercel:
+This app is also optimized for deployment on Vercel:
 
 1. Push your code to GitHub
 2. Connect your repository to Vercel
